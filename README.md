@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projeto-miguel&label=Profile%20views&color=0e75b6&style=flat" alt="projeto-miguel" /> </p>
 
-- 🔭 Estou trabalhando em [um site de pizzaria...](https://github.com/projeto-miguel/Site-pizzaria)
+- 🔭 Estou trabalhando em Site Pizzaria Leonardo... (https://github.com/projeto-miguel/Site-pizzaria)
 
 - 🌱 Estou aprendendo **JavaScript, C#**
 
@@ -11,9 +11,9 @@
 
 - 💬 Me pergunte sobre **Python, HTML5 e CSS3**
 
-- 📫 How to reach me **miguel2020carneiro@gmail.com**
+- 📫 Contato: **miguelcmdev@gmail.com**
 
-- ⚡ Fato curioso **Eu tenho 15 anos :)**
+- ⚡ Fato curioso: **Eu tenho 15 anos :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
