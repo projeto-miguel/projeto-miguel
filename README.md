@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projeto-miguel&label=Profile%20views&color=0e75b6&style=flat" alt="projeto-miguel" /> </p>
 
-- 🔭 Estou trabalhando em Site Pizzaria Leonardo... (https://github.com/projeto-miguel/Site-pizzaria)
+#- 🔭 Estou trabalhando em Site Pizzaria Leonardo... (https://github.com/projeto-miguel/Site-pizzaria)
 
 - 🌱 Estou aprendendo **JavaScript, C#**
 
