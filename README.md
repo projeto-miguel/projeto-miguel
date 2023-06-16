@@ -7,13 +7,13 @@
 
 - 🌱 Estou aprendendo **JavaScript, C#**
 
-- 🤝 Preciso de ajuda em **rotas de servidor em JavaScript**
+- 🤝 Preciso de ajuda em **ASP NET.Core MVC**
 
-- 💬 Me pergunte sobre **Python, HTML5 e CSS3**
+- 💬 Me pergunte sobre **C#, HTML5 e CSS3**
 
 - 📫 Contato: **miguelcmdev@gmail.com**
 
-- ⚡ Fato curioso: **Eu tenho 15 anos :)**
+- ⚡ Fato curioso: **Eu tenho 16 anos :)**
 
 <h3 align="left">Rede social:</h3>
 <p align="left">
