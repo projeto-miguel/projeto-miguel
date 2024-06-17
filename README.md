@@ -5,15 +5,13 @@
 
 <!-- - 🔭 Estou trabalhando em Site Pizzaria Leonardo... (https://github.com/projeto-miguel/Site-pizzaria) -->
 
-- 🌱 Estou aprendendo **JavaScript, C#**
+- 🌱 Estou aprendendo **Python, C#**
 
-- 🤝 Preciso de ajuda em **ASP NET.Core MVC**
+- 🤝 Preciso de ajuda em **Visão Computacional com Python**
 
-- 💬 Me pergunte sobre **C#, HTML5 e CSS3**
+- 💬 Me pergunte sobre **PHP, HTML5 e CSS3**
 
 - 📫 Contato: **miguelcmdev@gmail.com**
-
-- ⚡ Fato curioso: **Eu tenho 16 anos :)**
 
 <h3 align="left">Rede social:</h3>
 <p align="left">
