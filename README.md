@@ -5,7 +5,7 @@
 
 <!-- - 🔭 Estou trabalhando em Site Pizzaria Leonardo... (https://github.com/projeto-miguel/Site-pizzaria) -->
 
-- 🌱 Estou aprendendo **Python, C#**
+- 🌱 Estou aprendendo **MongoDB, JavaScript#**
 
 - 🤝 Preciso de ajuda em **Visão Computacional com Python**
 
