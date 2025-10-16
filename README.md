@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Miguel Carneiro</h1>
-<h3 align="center">Um aspirante desenvolvedor web / Back-end</h3>
+<h3 align="center">Estudante de Engenharia de Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projeto-miguel&label=Profile%20views&color=0e75b6&style=flat" alt="projeto-miguel" /> </p>
 
